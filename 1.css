@@ -1,0 +1,22 @@
+body {
+    background: rgba(16, 61, 2, 0.445);
+    color: rgba(0, 0, 0, 0.925);
+    font-size: 4vh;
+    
+}
+.images{
+    display:inline-flex;
+}
+
+.image-1{
+    margin-right: 8vh;
+}
+.image-2{
+    margin-right: 8vh;
+}
+.text-container{
+    
+    line-height: 5vh;
+    background-color: rgba(50, 58, 4, 0.356);
+    
+}
