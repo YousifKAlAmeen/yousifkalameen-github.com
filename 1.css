@@ -2,7 +2,6 @@ body {
     background: rgba(16, 61, 2, 0.445);
     color: rgba(0, 0, 0, 0.925);
     font-size: 4vh;
-    
 }
 .images{
     display:inline-flex;
@@ -14,9 +13,46 @@ body {
 .image-2{
     margin-right: 8vh;
 }
-.text-container{
-    
-    line-height: 5vh;
+.list-container{
+    font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(50, 58, 4, 0.356);
-    
+}
+.list-title{
+    margin-bottom: -3vh;
+}
+.list{
+    line-height: 7vh;
+}
+.p-article-title{
+    font-size: 14vh;
+    margin-bottom: 0px;
+}
+.p-article{
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    padding-right: 2vh;
+    padding-left: 2vh;
+    margin-left: -1vh;
+    margin-right: -1vh;
+    background-color: rgba(16, 61, 2, 0.26) ;
+    font-size: 48px;
+    font-weight: bold;
+}
+.p1{
+    color: rgba(13, 13, 201, 0.735);
+}
+.p2{
+    color: rgba(4, 63, 28, 0.827);
+}
+.p3{
+    color: rgba(54, 52, 39, 0.97);
+}
+.p4{
+    color: rgba(82, 27, 68, 0.97);
+}
+.p5{
+    color: rgb(25, 6, 134);
+}
+.p6{
+    color: rgb(92, 23, 23);
 }
