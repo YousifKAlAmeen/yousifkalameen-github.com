@@ -15,7 +15,6 @@ body {
 }
 .list-container{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(50, 58, 4, 0.356);
 }
 .list-title{
     margin-bottom: -3vh;
@@ -26,7 +25,6 @@ body {
 .p-article-title{
     font-size: 14vh;
     margin-bottom: 0px;
-    background-color: rgba(16, 61, 2, 0.26);
 }
 .p-article{
     padding-top: 4vh;
@@ -35,7 +33,6 @@ body {
     padding-left: 2vh;
     margin-left: -1vh;
     margin-right: -1vh;
-    background-color: rgba(16, 61, 2, 0.26) ;
     font-size: 48px;
     font-weight: bold;
 }
