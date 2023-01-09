@@ -3,6 +3,9 @@ body {
     color: rgba(0, 0, 0, 0.925);
     font-size: 4vh;
 }
+a{
+    text-decoration: none;
+}
 .images{
     display:inline-flex;
 }
@@ -53,4 +56,8 @@ body {
 }
 .p6{
     color: rgb(92, 23, 23);
+}
+.info{
+    width: 555px;
+    text-align: center;
 }
