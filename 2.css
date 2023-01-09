@@ -26,6 +26,7 @@ body {
 .p-article-title{
     font-size: 14vh;
     margin-bottom: 0px;
+    background-color: rgba(16, 61, 2, 0.26);
 }
 .p-article{
     padding-top: 4vh;
