@@ -2,9 +2,20 @@ body {
     background: rgba(16, 61, 2, 0.445);
     color: rgba(0, 0, 0, 0.925);
     font-size: 4vh;
+    text-align: center;
 }
 a{
     text-decoration: none;
+}
+ol {
+    list-style: none;
+}
+ul {
+    list-style: none;
+}
+.list{
+    margin-top: -3vh;
+    margin-left: -2vh
 }
 .images{
     display:inline-flex;
@@ -18,9 +29,13 @@ a{
 }
 .list-container{
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 3vh;
+    margin-top: 3vh;
 }
 .list-title{
     margin-bottom: -3vh;
+    margin-top: 2em;
+    margin-left: 5vh;
 }
 .list{
     line-height: 7vh;
@@ -57,7 +72,4 @@ a{
 .p6{
     color: rgb(92, 23, 23);
 }
-.info{
-    width: 66vh;
-    text-align: center;
-}
+
