@@ -1,7 +1,7 @@
 body {
     background: rgba(16, 61, 2, 0.445);
     color: rgba(0, 0, 0, 0.925);
-    font-size: 4vh;
+    font-size: 4vw;
     text-align: center;
 }
 a{
@@ -22,26 +22,26 @@ ul {
 }
 
 .image-1{
-    margin-right: 8vh;
+    margin-right: 8vw;
 }
 .image-2{
-    margin-right: 8vh;
+    margin-right: 8vw;
 }
 .list-container{
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 3vh;
-    margin-top: 3vh;
+    margin-bottom: 3vw;
+    margin-top: 3vw;
 }
 .list-title{
-    margin-bottom: -3vh;
-    margin-top: 2em;
-    margin-left: 5vh;
+    margin-bottom: -3vw;
+    margin-top: 2vw;
+    margin-left: 3vw;
 }
 .list{
-    line-height: 7vh;
+    line-height: 7vw;
 }
 .p-article-title{
-    font-size: 14vh;
+    font-size: 8vw;
     margin-bottom: 0px;
 }
 .p-article{
@@ -51,7 +51,7 @@ ul {
     padding-left: 2vh;
     margin-left: -1vh;
     margin-right: -1vh;
-    font-size: 48px;
+    font-size: 3.3vw;
     font-weight: bold;
 }
 .p1{
